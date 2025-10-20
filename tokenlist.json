@@ -1,0 +1,22 @@
+{
+  "name": "Morgan Stanley Token List",
+  "logoURI": "https://i.postimg.cc/G3FGSCKy/12352222.jpg",
+  "keywords": ["finance", "bank", "investment", "token"],
+  "timestamp": "2025-10-17T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x81546ef83ec4c9d674e9a9ba6677c552788cdb29",
+      "name": "MorganStanley",
+      "symbol": "MGSTL",
+      "decimals": 18,
+      "logoURI": "https://ibb.co/674yg5Y1",
+      "website": "https://www.morganstanley.com/",
+      "description": "MGSTL is an ERC20 token inspired by traditional finance concepts, promoting transparent and secure decentralized trading.",
+      "tags": ["finance", "defi", "erc20"]
+    }

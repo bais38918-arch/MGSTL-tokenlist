@@ -5,5 +5,5 @@ Official TokenList for the MGSTL ERC20 token.
 - Token Name: MorganStanley (MGSTL)
 - Network: Ethereum Mainnet
 - Contract: 0x81546ef83ec4c9d674e9a9ba6677c552788cdb29
-- Logo: https://i.postimg.cc/G3FGSCKy/12352222.jpg
+- Logo: https://www.morganstanley.com/
 - Website: https://www.morganstanley.com/
